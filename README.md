@@ -1,6 +1,6 @@
 # 🚀 Build With AI: Görüntü İşleme Eğitimi
 
-Bu repo, 27 Şubat 2025 tarihinde Lokman Baturay Efe ve Niyazi Mert Işıksal tarafından Mühendislik Fakültesi D101'de düzenlenen "Build With AI: Görüntü İşleme Eğitimi" etkinliğinde kullanılan örnek kodları ve materyalleri içermektedir.
+Bu repo, 26 Şubat 2025 tarihinde Lokman Baturay Efe ve Niyazi Mert Işıksal tarafından Mühendislik Fakültesi D101'de düzenlenen "Build With AI: Görüntü İşleme Eğitimi" etkinliğinde kullanılan örnek kodları ve materyalleri içermektedir.
 
 ## 📋 Etkinlik Hakkında
 
